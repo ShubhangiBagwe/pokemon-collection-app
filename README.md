@@ -10,3 +10,5 @@ Intersection Observer for infinite scroll,
 React DnD for drag-and-drop reordering,
 
 localStorage to persist the collection.x
+
+demo: https://pokemon-collection-app.netlify.app/
